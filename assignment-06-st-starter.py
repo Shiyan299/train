@@ -59,7 +59,7 @@ def perform_eda(df):
 # ----------------------------
 def main():
     # 设置页面标题（替换为你的全名）
-    st.title('🚢 Titanic 数据应用 - 你的全名')
+    st.title('🚢 Titanic Data Application-Zhang Shiyan')
     st.write('基于Titanic数据集的生存分析与可视化工具')
     
     # 1. 读取数据
